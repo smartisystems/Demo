@@ -15,7 +15,7 @@ public class SpalshActivity extends AppCompatActivity {
 
         Toast.makeText(this, "hiiiii", Toast.LENGTH_SHORT).show();
 
-        System.out.print("xcvvv");
+
 
     }
 
